@@ -8,7 +8,7 @@ def subtract(a, b):
     """
     Return the result of a minus b.
     """
-    pass
+    return a - b
 
 def multiply(a, b):
     """
